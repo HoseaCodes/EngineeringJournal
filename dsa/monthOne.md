@@ -3,10 +3,10 @@
 ## Week 1: DSA Foundations & Git Basics
 
 ### Day 1: Getting Started
-**Date: ____________**
+**Date: ______02/28/25______**
 
 **Morning (3 hours)**
-- [ ] Set up learning environment (IDE, GitHub account, etc.)
+- [X] Set up learning environment (IDE, GitHub account, etc.)
 - [ ] Take programming assessment to identify knowledge gaps
 - [ ] Choose primary programming language based on career goals
 - Notes:
