@@ -9,7 +9,7 @@
 - [X] Set up learning environment (IDE, GitHub account, etc.)
 - [ ] Take programming assessment to identify knowledge gaps
 - [ ] Choose primary programming language based on career goals
-- Notes:
+- Notes: Selected Java
 
 **Afternoon (3 hours)**
 - [ ] Start DSA course: Introduction to algorithms and time complexity
